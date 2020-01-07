@@ -177,6 +177,7 @@ body{
 }
 .div:hover{
     background-color: #ff7f00;
+    transition: all .3s ease-in-out;
 }
 .yumusaq-nav{
     position: absolute;
