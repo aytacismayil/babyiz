@@ -669,5 +669,20 @@ body{
     font-size: 40px;
 }
 .page-kecid-right:hover{
-    color: #ff7f00;
+    color: #ff7f00!important;
+    transition: all .3s ease-in-out;
+}
+.keyyoxla{
+    animation: animate 2s infinite;
+}
+@keyframes animate{
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 2;
+    }
 }
