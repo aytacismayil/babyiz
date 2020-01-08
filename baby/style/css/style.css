@@ -519,3 +519,17 @@ body{
         font-size: 20px;
     }
    }
+  
+   .amodala{
+       background-color: #221d3b!important;
+   }
+   .modal-header{
+       border-bottom: none!important;
+   }
+   .modal-botton{
+       background-color: #ff7f00!important;
+       color: white!important;
+   }
+   .bt-none{
+       border-top: none!important;
+   }
