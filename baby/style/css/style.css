@@ -83,6 +83,7 @@ body{
     height: 200px;
     background: #221d3b;
     transform: skew(-8deg);
+    border-radius: 5px;
     z-index: 999;
 }
 .carousel-indicators{
